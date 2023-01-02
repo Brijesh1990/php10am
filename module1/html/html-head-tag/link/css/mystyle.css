@@ -1,0 +1,18 @@
+body 
+{
+    background-color: blueviolet;
+}
+h1 
+{
+    color: white;
+    font-size: 40px;
+}
+hr 
+{
+    width: 30%;
+    border: solid 2px white;
+}
+p{
+    color: white;
+    font-size: 18px;
+}
